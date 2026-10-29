@@ -9,8 +9,6 @@ This VM runs Windows on VMware Workstation Pro for Windows administration, secur
 - Active Directory and domain attack-path practice
 - Windows security hardening
 
-## Windows Setup
-
 ## Windows VM Setup
 
 ### 1. Download Windows ISO
